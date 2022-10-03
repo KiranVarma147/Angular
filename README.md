@@ -1,8 +1,10 @@
-##Angular Setup
+
+##Angular Setup(VS Code)
 
 Please follow the below steps as per sequence throughly : 
 
-**Text** 1. Install CLI and run Angular App 
+**1. Install CLI and run Angular App** 
 Watch the video and follow the steps accordingly: https://www.youtube.com/watch?v=d2PVG38UR1k&list=PLp50dWW_m40XgTvxNoxddGkir5kSpFFmK&index=4
 
-2.
+**2. Install Bootstrap Framework in Angular**
+Watch the video and follow the steps accordingly: https://www.youtube.com/watch?v=D2FIhlxdTjI&list=PLp50dWW_m40XgTvxNoxddGkir5kSpFFmK&index=5
