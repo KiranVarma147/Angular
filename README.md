@@ -1,4 +1,4 @@
-#Angular Setup
+Angular Setup
 
 Please follow the below steps as per sequence throughly : 
 
