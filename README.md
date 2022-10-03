@@ -1,5 +1,5 @@
 
-'#'Angular Setup(VS Code)
+#h1 Angular Setup(VS Code)
 
 Please follow the below steps as per sequence throughly : 
 
