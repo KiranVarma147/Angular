@@ -1,7 +1,7 @@
 
 <h1>Angular Setup(VS Code)</h1>
 
-Please follow the below steps as per sequence throughly : 
+Please follow the below steps as per sequence: 
 
 **1. Install CLI and run Angular App**<br>
 Watch the video and follow the steps accordingly: https://www.youtube.com/watch?v=d2PVG38UR1k&list=PLp50dWW_m40XgTvxNoxddGkir5kSpFFmK&index=4
