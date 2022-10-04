@@ -9,7 +9,7 @@ Watch the video and follow the steps accordingly: https://www.youtube.com/watch?
 **2. Install Bootstrap Framework in Angular**<br>
 Watch the video and follow the steps accordingly: https://www.youtube.com/watch?v=D2FIhlxdTjI&list=PLp50dWW_m40XgTvxNoxddGkir5kSpFFmK&index=5
 
-<h3>Angular Commands</h3>
+***<h3>Angular Commands</h3>
 
 **1. To create new Angular Project**<br>
 ng new <project_name>
