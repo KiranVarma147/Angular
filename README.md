@@ -19,9 +19,15 @@ ng new <project_name>
 ng -v or ng --version
 
 **3. To create Component, Service, Module**<br>
--ng g component <component_name><br>
--ng g service <service_name><br>
--ng g module <module_name><br>
+ng g component <component_name>
+-ng g service <service_name>
+-ng g module <module_name>
+
+ 
+   Component                     | Service                      |  Module                   |
+-------------------------------  | ---------------------------  | ------------------------- |      
+ng g component <component_name>  | ng g service <service_name>  | ng g module <module_name> |
+
 
 **4. To run the angular application**<br>
 ng serve
