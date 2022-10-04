@@ -18,7 +18,7 @@ ng new <project_name>
 **2. To check Angular version**<br>
 ng -v or ng --version
 
-**3. To create Component, Service, Module**<br>
+**3. Commands to create a Component, Service, Module**<br>
    Component                     | Service                      |  Module                   |
 -------------------------------  | ---------------------------  | ------------------------- |      
 ng g component <component_name>  | ng g service <service_name>  | ng g module <module_name> |<br>
