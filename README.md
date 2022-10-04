@@ -26,4 +26,4 @@ ng g component <component_name>  | ng g service <service_name>  | ng g module <m
 
 **4. To run the angular application**<br>
 ng serve
-     - it runs the application and coverts the .ts(typescript) to .js(javascript)
+     - to compile the application and it coverts the .ts(typescript) to .js(javascript)
